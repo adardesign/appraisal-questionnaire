@@ -197,7 +197,7 @@ var json = {
 export default function () {
   return (
     <div className="App">
-      <h1>SurveyJS react example</h1>
+      <h1>Infinite</h1>
       <Surv />
     </div>
   );
